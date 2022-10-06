@@ -133,6 +133,7 @@ div h2 {
     border-radius: 6px;
     padding: 4px;
     margin-left: 10px;
+    font-family: 'roboto_RR', 'Arial Narrow', Arial, sans-serif;
     }
 
 .project:hover {
@@ -145,8 +146,7 @@ div h2 {
 .span_pr {
     margin: 15px;
     padding: 10px;
-    font-family: 'roboto_RR', 'Arial Narrow', Arial, sans-serif;
-}
+    }
 
 #contacts {
     margin-top: 50px;
