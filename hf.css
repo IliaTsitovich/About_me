@@ -3,6 +3,11 @@
     padding: 0;
 }
 
+@font-face {
+    font-family: roboto_RR;
+    src: url(fonts/roboto-condensed-light.woff2);
+ }
+
 .kii {
     text-decoration: none;
    }
@@ -15,11 +20,6 @@
     filter:blur(48px);
     z-index:1;
 }
-
-@font-face {
-    font-family: roboto_RR;
-    src: url(./About_me/fonts/roboto-condensed-light.woff2);
- }
 
 .nav1 {
     font-family: 'roboto_RR', 'Arial Narrow', Arial, sans-serif;
